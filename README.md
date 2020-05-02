@@ -1,7 +1,9 @@
 # HangMan Game
 Basic HangMan game in Python using PyQt5
 
-![](https://github.com/ransaked1/HangMan/blob/master/hangman.png | width=490)
+![](https://github.com/ransaked1/HangMan/blob/master/hangman.png)
+
+ <img src="https://github.com/ransaked1/HangMan/blob/master/hangman.png" width="490" height="350">
 
 ## Getting Started
 
